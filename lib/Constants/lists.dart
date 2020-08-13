@@ -15,5 +15,6 @@ class AppLists {
     AppColors.kSkin300,
     AppColors.kSkin400,
     AppColors.kSkin500,
+    AppColors.kSkin600,
   ];
 }
